@@ -17,7 +17,7 @@ namespace ExperienceWithGit
 	    //Dies ist ein nutzloser Comment
             Console.ReadLine();
 
-		Console.WriteLine("Dorus ist doof");
+		Console.WriteLine("Dorus ist die coolste Person in this Universe");
 =======
 		Console.WriteLine("Wer nicht da ist hat Durchfall");
 >>>>>>> 0beb06c2d778c6a9cce1cdf8445266727b42eaea
