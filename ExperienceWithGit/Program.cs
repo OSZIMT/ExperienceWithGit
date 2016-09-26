@@ -13,7 +13,7 @@ namespace ExperienceWithGit
             Console.WriteLine("John Doe,");
             Console.WriteLine("Jane Doe,");
             Console.WriteLine(",...");
-
+	    //Dies ist ein nutzloser Comment
             Console.ReadLine();
 
 		Console.WriteLine("Dorus ist doof");
