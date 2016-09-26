@@ -8,7 +8,7 @@ namespace ExperienceWithGit
         {
             Console.WriteLine(DateTime.Now);
 	    Console.WriteLine("Developer in this Project are: ");
-		Console.WriteLine("Wer nicht da ist hat frei");
+		Console.WriteLine("Wer nicht da ist hat Durchfall");
         }
     }
 }
