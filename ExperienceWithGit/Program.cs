@@ -15,6 +15,8 @@ namespace ExperienceWithGit
             Console.WriteLine(",...");
 
             Console.ReadLine();
+
+	Console.WriteLine("Ich bin eine Aenderung!");
         }
     }
 }
