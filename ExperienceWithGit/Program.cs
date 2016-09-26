@@ -8,6 +8,7 @@ namespace ExperienceWithGit
         {
             Console.WriteLine(DateTime.Now);
 	    Console.WriteLine("Developer in this Project are: ");
+<<<<<<< HEAD
             
             //TODO: Write your name here and push all your changes to Github.
             Console.WriteLine("John Doe,");
@@ -17,6 +18,9 @@ namespace ExperienceWithGit
             Console.ReadLine();
 
 		Console.WriteLine("Dorus ist doof");
+=======
+		Console.WriteLine("Wer nicht da ist hat Durchfall");
+>>>>>>> 0beb06c2d778c6a9cce1cdf8445266727b42eaea
         }
     }
 }
