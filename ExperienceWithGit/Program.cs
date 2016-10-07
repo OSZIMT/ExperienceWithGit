@@ -20,6 +20,7 @@ namespace ExperienceWithGit
 		Console.WriteLine("Dorus ist die coolste Person in this Universe");
 =======
 		Console.WriteLine("Wer nicht da ist hat Durchfall");
+        Console.WriteLine("Und hier ist Martin H.");
 >>>>>>> 0beb06c2d778c6a9cce1cdf8445266727b42eaea
         }
     }
