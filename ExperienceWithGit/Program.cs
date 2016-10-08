@@ -13,6 +13,7 @@ namespace ExperienceWithGit
             //TODO: Write your name here and push all your changes to Github.
             Console.WriteLine("John Doe,");
             Console.WriteLine("Jane Doe,");
+            Console.WriteLine("Matthias Schernekau");
             Console.WriteLine(",...");
 	    //Dies ist ein nutzloser Comment
             Console.ReadLine();
