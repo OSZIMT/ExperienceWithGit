@@ -16,6 +16,8 @@ namespace ExperienceWithGit
             Console.WriteLine("Nicolai Wolters");
             Console.WriteLine("Manuel Klose,");
 	    Console.WriteLine("Andreas Biller,");
+        Console.WriteLine("Martin Knack,");
+
 	    Console.WriteLine("...");
 
 	        //Dies ist ein nutzloser Comment
